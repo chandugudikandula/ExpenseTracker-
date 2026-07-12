@@ -25,3 +25,15 @@ This project is a beginner-friendly Python program that helps users track their 
 1. Clone the repository:
    ```bash
    git clone https://github.com/chandugudikandula/ExpenseTracker.git
+## 📂 Project Structure
+ExpenseTracker/
+├── expense_tracker.py   # Main source code
+├── README.md            # Documentation
+└── requirements.txt     # Dependencies 
+🧑‍💻 Author
+
+chandu
+
+📜 License
+
+This project is open-source for educational purposes.
